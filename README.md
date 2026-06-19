@@ -74,7 +74,7 @@ Deskripsi Singkat:
 
   <br> <img width="1920" height="1128" alt="peminjaman" src="https://github.com/user-attachments/assets/285dddb5-43f6-43e5-87ec-6c621423e5ce" />
 
-## Petunjuk instalasi singkat cara menjalankan proyek backend dan frontend Anda di komputer lokal.
+## Petunjuk instalasi singkat cara menjalankan proyek backend dan frontend di komputer lokal.
 <br> **Backend (CodeIgniter 4)**
 1. Buka folder backend-api.
 2. Install dependency:
